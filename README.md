@@ -1,12 +1,14 @@
 ## Thiru😁
 
 <div>
+  <pre>
   <p>const Profile=()=>{</p>
-  <pre>    const name = "Thirumoorthy S";</pre>
-  <pre>    const pursuing  = "Bachelor of Engineering";</pre>
-  <pre>    const Languages  = "Spring Boot, Hibernate";</pre>
-  <pre>    await Learning(Languages);</pre>
+  <p>&ensp;&ensp;&ensp;&ensp;const name = "Thirumoorthy S";</p>
+  <p>&ensp;&ensp;&ensp;&ensp;const pursuing  = "Bachelor of Engineering";</p>
+  <p>&ensp;&ensp;&ensp;&ensp;const Languages  = "Spring Boot, Hibernate";</p>
+  <p>&ensp;&ensp;&ensp;&ensp;await Learning(Languages);</p>
   <p>}</p>
+  </pre>
     
 </div>
 
