@@ -6,6 +6,7 @@
   <p>"qualified" : "B.E" </p>
   <p>}</p>
 </div>
+
 - 👀 Just view and get me[portfolio](https://thiru-s.netlify.app/)                                                 
 - 🔥 Hot Projects enabled!
 - 🤔 Is it possible to place in FAANG
