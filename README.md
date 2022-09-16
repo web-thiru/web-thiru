@@ -1,18 +1,14 @@
 ## Thiru😁
 
-<div>
   <pre>
-  <p>const Profile=()=>{</p>
-  <p>&ensp;&ensp;&ensp;&ensp;const name = "Thirumoorthy S";</p>
-  <p>&ensp;&ensp;&ensp;&ensp;const pursuing  = "Bachelor of Engineering";</p>
-  <p>&ensp;&ensp;&ensp;&ensp;const Languages  = "Spring Boot, Hibernate";</p>
+  <p>const Profile👨‍💻=([portfolio](https://thiru-s.netlify.app/))=>{</p>
+  <p>&ensp;&ensp;&ensp;&ensp;const name📛 = "Thirumoorthy S";</p>
+  <p>&ensp;&ensp;&ensp;&ensp;const pursuing©️ = "Bachelor of Engineering";</p>
+  <p>&ensp;&ensp;&ensp;&ensp;const Languages🖇️  = "Spring Boot, Hibernate";</p>
   <p>&ensp;&ensp;&ensp;&ensp;await Learning(Languages);</p>
   <p>}</p>
   </pre>
-    
-</div>
-
-- 👀 Just view and get me here => [portfolio](https://thiru-s.netlify.app/)                                                 
+  
 - 🔥 Hot Projects enabled!
 - 🤔 Is it possible to place in FAANG
 - Not a joke : I'm strong in DSA
