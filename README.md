@@ -1,16 +1,13 @@
 ## Thiru😁
 
-  
-  <p>const Profile👨‍💻=(</p>
-  
-  [portfolio](https://thiru-s.netlify.app/) 
-  
-  <p>)=>{</p>
+  '''html
+  <p>const Profile👨‍💻=(<a href="https://thiru-s.netlify.app">Portfolio</a>)=>{</p>
   <p>&ensp;&ensp;&ensp;&ensp;const name📛 = "Thirumoorthy S";</p>
   <p>&ensp;&ensp;&ensp;&ensp;const pursuing©️ = "Bachelor of Engineering";</p>
   <p>&ensp;&ensp;&ensp;&ensp;const Languages🖇️  = "Spring Boot, Hibernate";</p>
   <p>&ensp;&ensp;&ensp;&ensp;await Learning(Languages);</p>
   <p>}</p>
+  '''
   
 - 🔥 Hot Projects enabled!
 - 🤔 Is it possible to place in FAANG
