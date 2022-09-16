@@ -1,10 +1,10 @@
 ## Thiru😁
 
-{
-    "name" : "thiru",
-    "Qualification" : "B.E",
-    "Course" : "CSE"
-}
+-{
+-    "name" : "thiru",
+-    "Qualification" : "B.E",
+-    "Course" : "CSE"
+-}
 - 👀 Just view and get me[portfolio](https://thiru-s.netlify.app/)                                                 
 - 🔥 Hot Projects enabled!
 - 🤔 Is it possible to place in FAANG
