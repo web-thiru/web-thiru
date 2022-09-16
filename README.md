@@ -1,10 +1,11 @@
 ## Thiru😁
 
--{
--    "name" : "thiru",
--    "Qualification" : "B.E",
--    "Course" : "CSE"
--}
+<div>
+  <p>{</p>
+  <p>"name" : "thiru"</p>
+  <p>"qualified" : "B.E" </p>
+  <p>}</p>
+</div>
 - 👀 Just view and get me[portfolio](https://thiru-s.netlify.app/)                                                 
 - 🔥 Hot Projects enabled!
 - 🤔 Is it possible to place in FAANG
