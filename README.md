@@ -1,13 +1,16 @@
 ## Thiru😁
 
 <div>
-  <p>{</p>
-  <p>"name" : "thiru"</p>
-  <p>"qualified" : "B.E" </p>
+  <p>const Profile=()=>{</p>
+  <pre>    const name = "Thirumoorthy S";</pre>
+  <pre>    const pursuing  = "Bachelor of Engineering";</pre>
+  <pre>    const Languages  = "Spring Boot, Hibernate";</pre>
+  <pre>    await Learning(Languages);</pre>
   <p>}</p>
+    
 </div>
 
-- 👀 Just view and get me[portfolio](https://thiru-s.netlify.app/)                                                 
+- 👀 Just view and get me here => [portfolio](https://thiru-s.netlify.app/)                                                 
 - 🔥 Hot Projects enabled!
 - 🤔 Is it possible to place in FAANG
 - Not a joke : I'm strong in DSA
