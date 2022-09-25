@@ -22,4 +22,4 @@
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=thiru-s&theme=auto&width=346)](https://leetcode.com/thiru-s)
 
-![Visitor Count](https://profile-counter.glitch.me/dikshitakambri/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/web-thiru/count.svg) 
