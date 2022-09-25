@@ -20,6 +20,8 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=web-thiru&hide=issues,contribs&theme=dark)](https://github.com/web-thiru/)
 
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-thiru&theme=blue-green)
+
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=thiru-s&theme=auto&width=346)](https://leetcode.com/thiru-s)
 
 ![Visitor Count](https://profile-counter.glitch.me/web-thiru/count.svg) 
