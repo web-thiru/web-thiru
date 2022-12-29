@@ -1,7 +1,7 @@
 ## Thiru😁
 
   
-  <p>const Profile👨‍💻=(<a href="https://thiru-s.netlify.app">Portfolio</a>)=>{</p>
+  <p>const Profile👨‍💻=async(<a href="https://thiru-s.netlify.app">Portfolio</a>)=>{</p>
   <p>&ensp;&ensp;&ensp;&ensp;const name📛 = "Thirumoorthy S";</p>
   <p>&ensp;&ensp;&ensp;&ensp;const pursuing©️ = "Bachelor of Engineering";</p>
   <p>&ensp;&ensp;&ensp;&ensp;const Languages🖇️  = "Spring Boot, Hibernate";</p>
